@@ -13,6 +13,8 @@ brainstorming em tempo real, além de contar com várias funcionalidades que
 auxiliam na apresentação de novas ideias e no processo criativo de uma
 equipe.
 
+Brainstorming é mais que uma técnica, é uma atividade que visa explorar toda a capacidade criativa e intelectual para achar soluções a um determinado problema. A ideia é dar espaço para a diversidade de pensamentos e experiências e extrair as melhores ideias, buscando inovação, o diferencial, o surpreendente e o sucesso. O que vier à mente pode ser jogado na mesa. Após as ideias, visões e possibilidades, cabe ao MindBox encontrar o denominador comum para a melhor solução.
+
 ## Pré-requisitos
 
 ## Instalação
